@@ -1,0 +1,7 @@
+/_build/
+/deps/
+*.ez
+*.rudyaddon
+*.key
+/doc/
+erl_crash.dump

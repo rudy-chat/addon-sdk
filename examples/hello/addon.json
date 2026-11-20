@@ -1,0 +1,12 @@
+{
+  "name": "hello",
+  "display": "Hello",
+  "version": "1.0.0",
+  "id": 429900,
+  "username": "HelloAddonBot",
+  "module": "Rudy.Addons.Hello",
+  "sdk": 1,
+  "state_version": 1,
+  "capabilities": ["messages.reply", "messages.edit", "callbacks"],
+  "hosts": []
+}
